@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-#pickle_rick_new
+#pickle_rick_new_again
 Use the left arrow to go back!
 Use the right arrow to go forward
